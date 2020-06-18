@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammed Abou Hassan"
+title                    : "Mohammed Abou Hassan's Work"
 title_separator          : "-"
 name                     : "Mohammed Abou Hassan"
 description              : "Data Science Portfolio"
